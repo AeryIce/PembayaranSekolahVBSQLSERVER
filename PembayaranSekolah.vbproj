@@ -93,6 +93,12 @@
     <Compile Include="FormHome.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormPushGitKomputerKantor.Designer.vb">
+      <DependentUpon>FormPushGitKomputerKantor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPushGitKomputerKantor.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormSiswa.Designer.vb">
       <DependentUpon>FormSiswa.vb</DependentUpon>
     </Compile>
