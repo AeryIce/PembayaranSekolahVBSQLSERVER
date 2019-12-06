@@ -74,6 +74,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FormCobaPushGit.Designer.vb">
+      <DependentUpon>FormCobaPushGit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormCobaPushGit.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormLogin.vb">
       <SubType>Form</SubType>
     </Compile>
