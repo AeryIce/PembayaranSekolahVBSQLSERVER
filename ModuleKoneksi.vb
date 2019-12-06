@@ -9,7 +9,7 @@ Module ModuleKoneksi
 
 	Sub Koneksi()
 		Try
-			Conn = New SqlConnection("DATA SOURCE=DESKTOP-5A499D7\MSSQLSERVER01;INITIAL CATALOG=pembayaranspp;INTEGRATED SECURITY=true")
+			Conn = New SqlConnection("DATA SOURCE=AERYICE-PC666;INITIAL CATALOG=pembayaranspp;INTEGRATED SECURITY=true")
 			Conn.Open()
 			FormLogin.Label_ConfirmDb.Text = "Connected"
 		Catch ex As Exception
