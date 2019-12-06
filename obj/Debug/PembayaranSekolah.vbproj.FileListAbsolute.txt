@@ -1,0 +1,57 @@
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\bin\Debug\PembayaranSekolah.exe.config
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\bin\Debug\PembayaranSekolah.exe
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\bin\Debug\PembayaranSekolah.pdb
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\bin\Debug\PembayaranSekolah.xml
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\bin\Debug\MySql.Data.dll
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\bin\Debug\Google.Protobuf.dll
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\bin\Debug\BouncyCastle.Crypto.dll
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\bin\Debug\Renci.SshNet.dll
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\bin\Debug\MySql.Data.xml
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\obj\Debug\PembayaranSekolah.vbprojAssemblyReference.cache
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\obj\Debug\PembayaranSekolah.FormLoginPS.resources
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\obj\Debug\PembayaranSekolah.Resources.resources
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\obj\Debug\PembayaranSekolah.vbproj.GenerateResource.cache
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\obj\Debug\PembayaranSekolah.vbproj.CopyComplete
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\obj\Debug\PembayaranSekolah.exe
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\obj\Debug\PembayaranSekolah.xml
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\obj\Debug\PembayaranSekolah.pdb
+D:\LEARNN\Programming\VB\Latihan\PembayaranSekolah\obj\Debug\PembayaranSekolah.FormHomePS.resources
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\bin\Debug\PembayaranSekolah.exe.config
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\bin\Debug\PembayaranSekolah.exe
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\bin\Debug\PembayaranSekolah.pdb
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\bin\Debug\PembayaranSekolah.xml
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\bin\Debug\MySql.Data.dll
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\bin\Debug\Google.Protobuf.dll
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\bin\Debug\BouncyCastle.Crypto.dll
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\bin\Debug\Renci.SshNet.dll
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\bin\Debug\MySql.Data.xml
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\obj\Debug\PembayaranSekolah.vbprojAssemblyReference.cache
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\obj\Debug\PembayaranSekolah.Resources.resources
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\obj\Debug\PembayaranSekolah.vbproj.GenerateResource.cache
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\obj\Debug\PembayaranSekolah.vbproj.CopyComplete
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\obj\Debug\PembayaranSekolah.exe
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\obj\Debug\PembayaranSekolah.xml
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\obj\Debug\PembayaranSekolah.pdb
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\bin\Debug\PembayaranSekolah.exe.config
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\bin\Debug\PembayaranSekolah.exe
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\bin\Debug\PembayaranSekolah.pdb
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\bin\Debug\PembayaranSekolah.xml
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\bin\Debug\Google.Protobuf.dll
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\bin\Debug\BouncyCastle.Crypto.dll
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\bin\Debug\Renci.SshNet.dll
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\bin\Debug\MySql.Data.xml
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\obj\Debug\PembayaranSekolah.vbprojAssemblyReference.cache
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\obj\Debug\PembayaranSekolah.Resources.resources
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\obj\Debug\PembayaranSekolah.vbproj.GenerateResource.cache
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\obj\Debug\PembayaranSekolah.vbproj.CopyComplete
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\obj\Debug\PembayaranSekolah.exe
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\obj\Debug\PembayaranSekolah.xml
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\obj\Debug\PembayaranSekolah.pdb
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\obj\Debug\PembayaranSekolah.FormUser.resources
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\obj\Debug\PembayaranSekolah.FormUser.resources
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\obj\Debug\PembayaranSekolah.FormSiswa.resources
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\obj\Debug\PembayaranSekolah.FormLogin.resources
+F:\Learn\VB\Latihan\Sql Server\PembayaranSekolah\obj\Debug\PembayaranSekolah.FormHome.resources
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\obj\Debug\PembayaranSekolah.FormLogin.resources
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\obj\Debug\PembayaranSekolah.FormHome.resources
+D:\LEARNN\Programming\VB\Latihan\dbsqlserver\PembayaranSekolah\obj\Debug\PembayaranSekolah.FormSiswa.resources
